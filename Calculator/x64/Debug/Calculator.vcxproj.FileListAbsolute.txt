@@ -1,0 +1,6 @@
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\Calculator\x64\Debug\Calculator.Calculator.resources
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\Calculator\x64\Debug\Calculator.Calculator.resources
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache

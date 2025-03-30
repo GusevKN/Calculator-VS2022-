@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\Calculator\Calculator.h(557,14): warning C4305: аргумент: усечение из "int" в "char"
+D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\Calculator\Calculator.h(557,14): warning C4309: аргумент: усечение константного значения
+  Calculator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> D:\Программы VS\PT-ACA.001 C++\2022012900 PT\PT-ACA.015 VS2022 GUI\Calculator\2024060604\x64\Debug\Calculator.exe
